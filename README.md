@@ -1,7 +1,7 @@
 # Hi, I a'm Jony Sarowar  👋
 
 
-![](https://raw.githubusercontent.com/jonysarowar/Icon/refs/heads/main/ff.jpg)
+![](https://raw.githubusercontent.com/jonysarowar/Icon/refs/heads/main/CoverPhoto.jpg)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  .NET DEVELOPER
 <h5>🌱 Currently exploring ASP.NET, Angular, and React to build modern, scalable applications.</h5> 
